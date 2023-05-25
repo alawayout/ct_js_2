@@ -1,14 +1,14 @@
 body{
-    background-color: #BCCEF8;
+    background-color: #BCAEF8;
 }
 h1, h2{
     text-align: center;
     margin: 5px;
-    color: #FAF7F0;
+    color: #FAF3F8;
 }
 h3{
     margin: 10px;
-    color: #FAF7F0;
+    color: #FAF3F8;
 }
 .picture{
     width: 290px;
@@ -21,7 +21,7 @@ h3{
 .flex-item{
     width: 320px;
     min-height: 400px;
-    background-color: #98A8F8;
+    background-color: #91A8F8;
     border-radius: 10px;
     margin-left: 40px;
     margin-bottom: 20px;

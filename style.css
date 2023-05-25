@@ -1,5 +1,5 @@
 body{
-    background-color: #BCAEF8;
+    background-color: #CD5C5C;
 }
 h1, h2{
     text-align: center;
@@ -21,7 +21,7 @@ h3{
 .flex-item{
     width: 320px;
     min-height: 400px;
-    background-color: #91A8F8;
+    background-color: #ADFF2F;
     border-radius: 10px;
     margin-left: 40px;
     margin-bottom: 20px;
